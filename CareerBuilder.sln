@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerBuilder.Api", "CareerBuilder\CareerBuilder.Api.csproj", "{BB71C541-3BD0-4F9E-B342-79EF5BDDB374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerBuilder.Domain", "CareerBuilder.Domain\CareerBuilder.Domain.csproj", "{833E450A-EDD4-421D-B0B7-14C765FD53EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB71C541-3BD0-4F9E-B342-79EF5BDDB374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB71C541-3BD0-4F9E-B342-79EF5BDDB374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB71C541-3BD0-4F9E-B342-79EF5BDDB374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB71C541-3BD0-4F9E-B342-79EF5BDDB374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{833E450A-EDD4-421D-B0B7-14C765FD53EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833E450A-EDD4-421D-B0B7-14C765FD53EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833E450A-EDD4-421D-B0B7-14C765FD53EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833E450A-EDD4-421D-B0B7-14C765FD53EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
